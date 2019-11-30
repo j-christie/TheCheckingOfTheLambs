@@ -1,6 +1,23 @@
-package quiz.model;
+Skip to content
+Search or jump to…
 
-import quiz.MyRuntimeException;
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@j-christie 
+1
+00cs2043-2019-unb/02A-Team1-Repository2 Private
+ Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
+02A-Team1-Repository2/QuizModel.java
+@pandyayash297 pandyayash297 Added Quiz Classes
+cca6d58 1 hour ago
+140 lines (121 sloc)  3.72 KB
+  
+
+
+//import quiz.MyRuntimeException;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -9,8 +26,7 @@ import java.util.List;
  * The Model<br>
  * Class to compose a Quiz-puzzle as a list of {@code AQuiz}
  *
- * @author Robert Jansson
- * @see <A href="https://github.com/RobertJansson">https://github.com/RobertJansson</A>
+ * @author Yash Pandya
  * @version 1.0
  */
 public class QuizModel {
@@ -139,3 +155,15 @@ public class QuizModel {
 		return str;
 	}
 }
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
